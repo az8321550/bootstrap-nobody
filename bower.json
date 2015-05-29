@@ -1,0 +1,27 @@
+{
+  "name": "noless-less",
+  "version": "1.0.0",
+  "authors": [
+    "nobody <411298027@qq.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "less",
+    "lesslib",
+    "lib",
+    "css"
+  ],
+  "main": [
+    "dist/css/nobody.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
